@@ -20,7 +20,7 @@ export class ListPage {
   }
   initializeItems() {
     this.items = [
-      'basin','close eye','innocent','sleep','stare','turn back',
+      'basin','dreaming','innocent','sleeping','stare','turn back',
     ];
   }
 
